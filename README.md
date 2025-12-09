@@ -1,24 +1,28 @@
-# project_xla
+# Đây là repos chỉnh sửa ảnh dựa trên Flutter và Python
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
+## Có thể đọc cách tạo và thực hiện Flutter ở đây
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+- For help getting started with Flutter development, view the
+ [online documentation](https://docs.flutter.dev/), which offers tutorials,
+ samples, guidance on mobile development, and a full API reference.
 
 
+# CLONE AND RUN
 
-# DATA -> RUN SERVER.PY
+--> Có thể clone repos này thông qua
+```
+git clone: https://github.com/vynt2401/App_Configure
+```
+
+--> Sau khi clone repos --> trỏ đến thư mục 
+```
+Release > project_xla.exe 
+```
+để chạy được app chính trên Windows
+
+# Ở trong DATA -> RUN SERVER.PY
 
 ### Bash Script Enviroment
 ### Linux 
