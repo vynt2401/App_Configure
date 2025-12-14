@@ -1,7 +1,7 @@
 # Đây là repos chỉnh sửa ảnh dựa trên Flutter và Python
 
 
-## Có thể đọc cách tạo và thực hiện Flutter ở đây
+## Đọc thêm về Flutter ở đây
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 - For help getting started with Flutter development, view the
